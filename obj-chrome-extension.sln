@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CB0C7737-4E8E-4300-9195-6BEF6B0FDD01}"
+	ProjectSection(SolutionItems) = preProject
+		background.js = background.js
+		foreground.js = foreground.js
+		manifest.json = manifest.json
+		options.html = options.html
+		popup.html = popup.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Icons", "Icons", "{34FC1528-2F6A-4364-AFC1-734762E1369F}"
+	ProjectSection(SolutionItems) = preProject
+		icons\icon-128x128.png = icons\icon-128x128.png
+		icons\icon-16x16.png = icons\icon-16x16.png
+		icons\icon-32x32.png = icons\icon-32x32.png
+		icons\icon-64x64.png = icons\icon-64x64.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{34FC1528-2F6A-4364-AFC1-734762E1369F} = {CB0C7737-4E8E-4300-9195-6BEF6B0FDD01}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF045828-1570-4A4B-B916-A6A725231F70}
+	EndGlobalSection
+EndGlobal
